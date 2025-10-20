@@ -21,6 +21,8 @@ Works on Railway, Heroku, Fly etc. Set env vars from `.env`.
   "fact":"<cat fact>"
 }
 
+## Tests
+npm test
 
 ## Notes
 - External API timeout set to 3000ms
